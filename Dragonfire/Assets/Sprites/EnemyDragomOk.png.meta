@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 45df6b7665f578147ae6ae6a49a9983d
+timeCreated: 1434168330
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyDragomOk_0
+    21300002: EnemyDragomOk_1
+    21300004: EnemyDragomOk_2
+    21300006: EnemyDragomOk_3
+    21300008: EnemyDragomOk_4
+    21300010: EnemyDragomOk_5
+    21300012: EnemyDragomOk_6
+    21300014: EnemyDragomOk_7
+    21300016: EnemyDragomOk_8
+    21300018: EnemyDragomOk_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EnemyDragomOk_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 24
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 19
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 19
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 22
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 24
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 21
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 19
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 21
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_8
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 22
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EnemyDragomOk_9
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 24
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

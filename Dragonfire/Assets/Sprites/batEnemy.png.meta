@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 3c8ab57f2cdae0045ad7169aa294f374
+timeCreated: 1434901452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: batEnemy_0
+    21300002: batEnemy_1
+    21300004: batEnemy_2
+    21300006: batEnemy_3
+    21300008: batEnemy_4
+    21300010: batEnemy_5
+    21300012: batEnemy_6
+    21300014: batEnemy_7
+    21300016: batEnemy_8
+    21300018: batEnemy_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: batEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 46
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 95
+        height: 99
+      alignment: 9
+      pivot: {x: .499999851, y: .29803738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 47
+        width: 140
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 53
+        height: 101
+      alignment: 9
+      pivot: {x: .311374307, y: .782804728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 51
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 54
+        width: 75
+        height: 92
+      alignment: 9
+      pivot: {x: .195325524, y: .251623571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 54
+        width: 60
+        height: 95
+      alignment: 9
+      pivot: {x: .190564975, y: .274500221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 47
+        width: 140
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 53
+        height: 101
+      alignment: 9
+      pivot: {x: .365266621, y: .782804728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: batEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 51
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

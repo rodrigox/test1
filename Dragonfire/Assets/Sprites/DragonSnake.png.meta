@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 7c038acd75fd63141942e1b3b1201877
+timeCreated: 1434176087
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DragonSnake_0
+    21300002: DragonSnake_1
+    21300004: DragonSnake_2
+    21300006: DragonSnake_3
+    21300008: DragonSnake_4
+    21300010: DragonSnake_5
+    21300012: DragonSnake_6
+    21300014: DragonSnake_7
+    21300016: DragonSnake_8
+    21300018: DragonSnake_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DragonSnake_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 415
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 22
+        width: 405
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 31
+        width: 408
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_3
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 35
+        width: 404
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_4
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 41
+        width: 405
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_5
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 41
+        width: 404
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_6
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 35
+        width: 409
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_7
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 29
+        width: 413
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_8
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 12
+        width: 419
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DragonSnake_9
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 10
+        width: 423
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
